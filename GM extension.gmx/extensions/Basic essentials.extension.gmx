@@ -23,6 +23,12 @@
   <iosSystemFrameworks/>
   <iosThirdPartyFrameworks/>
   <androidPermissions/>
-  <IncludedResources/>
+  <IncludedResources>
+    <Resource>Scripts\grp_basic_essentials\grp_text\text_narrate</Resource>
+    <Resource>Scripts\grp_basic_essentials\grp_text\draw_text_outlined</Resource>
+    <Resource>Scripts\grp_basic_essentials\grp_text\draw_text_outlined_ext</Resource>
+    <Resource>Objects\grp_basic_essentials\grp_text\obj_narrate</Resource>
+    <Resource>Objects\grp_basic_essentials\grp_menue\obj_menue</Resource>
+  </IncludedResources>
   <files/>
 </extension>
