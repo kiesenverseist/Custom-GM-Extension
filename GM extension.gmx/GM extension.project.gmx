@@ -18,13 +18,16 @@
         <script>scripts\draw_text_outlined_ext.gml</script>
       </scripts>
       <scripts name="grp_menue">
-        <scripts name="grp_menue_main">
+        <scripts name="grp_main">
           <script>scripts\scr_main_menue_enter.gml</script>
         </scripts>
         <scripts name="grp_shared">
           <script>scripts\scr_menue_mouse.gml</script>
           <script>scripts\scr_menue_keys.gml</script>
         </scripts>
+      </scripts>
+      <scripts name="grp_pause">
+        <script>scripts\scr_pause_menue_enter.gml</script>
       </scripts>
     </scripts>
   </scripts>
@@ -45,6 +48,7 @@
       </objects>
       <objects name="grp_pause">
         <object>objects\obj_pause</object>
+        <object>objects\obj_pause_menue</object>
       </objects>
     </objects>
   </objects>
