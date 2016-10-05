@@ -27,8 +27,16 @@
     <Resource>Scripts\grp_basic_essentials\grp_text\text_narrate</Resource>
     <Resource>Scripts\grp_basic_essentials\grp_text\draw_text_outlined</Resource>
     <Resource>Scripts\grp_basic_essentials\grp_text\draw_text_outlined_ext</Resource>
+    <Resource>Scripts\grp_basic_essentials\grp_text\text_narrate.gml</Resource>
+    <Resource>Scripts\grp_basic_essentials\grp_text\draw_text_outlined.gml</Resource>
+    <Resource>Scripts\grp_basic_essentials\grp_text\draw_text_outlined_ext.gml</Resource>
+    <Resource>Scripts\grp_basic_essentials\grp_menue\grp_menue_main\scr_main_menue_enter.gml</Resource>
+    <Resource>Scripts\grp_basic_essentials\grp_menue\grp_shared\scr_menue_mouse.gml</Resource>
+    <Resource>Scripts\grp_basic_essentials\grp_menue\grp_shared\scr_menue_keys.gml</Resource>
     <Resource>Objects\grp_basic_essentials\grp_text\obj_narrate</Resource>
     <Resource>Objects\grp_basic_essentials\grp_menue\obj_menue</Resource>
+    <Resource>Fonts\grp_basic_essentials\fnt_menue</Resource>
+    <Resource>Fonts\grp_basic_essentials\fnt_narrate</Resource>
   </IncludedResources>
   <files/>
 </extension>
