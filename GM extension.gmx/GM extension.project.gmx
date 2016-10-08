@@ -29,6 +29,13 @@
       <scripts name="grp_pause">
         <script>scripts\scr_pause_menue_enter.gml</script>
       </scripts>
+      <scripts name="grp_inventory">
+        <script>scripts\scr_inv_init.gml</script>
+        <script>scripts\scr_inv_add.gml</script>
+        <script>scripts\scr_inv_remove.gml</script>
+        <script>scripts\scr_inv_check.gml</script>
+        <script>scripts\scr_inv_edit.gml</script>
+      </scripts>
     </scripts>
   </scripts>
   <fonts name="fonts">
